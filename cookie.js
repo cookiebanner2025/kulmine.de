@@ -179,7 +179,7 @@ geoConfig: {
     
     // Button styling
     buttonStyle: {
-        borderRadius: '8px',
+        borderRadius: '3px',
         padding: '15px 20px',
         fontWeight: '600',
         fontSize: '14px',
