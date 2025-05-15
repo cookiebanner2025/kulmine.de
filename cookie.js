@@ -1451,7 +1451,7 @@ function injectConsentHTML(detectedCookies, language = 'en') {
         background-color: ${config.buttonStyle.reject.hover.background};
         color: ${config.buttonStyle.reject.hover.color};
         transform: ${config.buttonStyle.reject.hover.transform};
-        box-shadow: 0 2px 8px rgba(231, 76, 60, 0.15);
+        
     }
 
     .accept-btn {
