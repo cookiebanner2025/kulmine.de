@@ -114,7 +114,7 @@ const config = {
     
     // Language configuration
     languageConfig: {
-        defaultLanguage: 'en',
+        defaultLanguage: 'de',
         availableLanguages: [], // Only en and fr as requested
         showLanguageSelector: false,
         autoDetectLanguage: true
