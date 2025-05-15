@@ -500,7 +500,7 @@ const cookieDatabase = {
 // Language translations (keeping only en and fr as requested)
 const translations = {
    de: {
-        title: "Wir schätzen Ihre Privatsphäre",
+        title: "Cookies statt Kekse",
         description: "Wir verwenden Cookies, um Ihr Surferlebnis zu verbessern, personalisierte Anzeigen oder Inhalte bereitzustellen und unseren Datenverkehr zu analysieren. Wenn Sie auf \"Alle akzeptieren\" klicken, erklären Sie sich mit der Verwendung von Cookies einverstanden.",
         privacy: "Datenschutzrichtlinie",
         customize: "Anpassen",
