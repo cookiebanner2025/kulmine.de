@@ -2206,14 +2206,14 @@ function injectConsentHTML(detectedCookies, language = 'en') {
         background-color: ${config.buttonStyle.accept.background};
         color: ${config.buttonStyle.accept.color};
         border: ${config.buttonStyle.accept.border};
-        box-shadow: 0 2px 12px rgba(46, 204, 113, 0.3);
+      
     }
 
     .accept-btn:hover {
         background-color: ${config.buttonStyle.accept.hover.background};
         color: ${config.buttonStyle.accept.hover.color};
         transform: ${config.buttonStyle.accept.hover.transform};
-        box-shadow: 0 4px 16px rgba(46, 204, 113, 0.4);
+       
     }
 
     .save-btn {
