@@ -2201,6 +2201,10 @@ function injectConsentHTML(detectedCookies, language = 'en') {
             padding: 20px;
             flex-direction: column;
         }
+
+          .cookie-consent-buttons {
+        gap: 0px; /* This is the line you need to add */
+        }
         
         .cookie-btn {
             flex: 1;
