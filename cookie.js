@@ -173,7 +173,7 @@ geoConfig: {
         description: {
             fontSize: '14px',
             lineHeight: '1.5',
-            color: '#281E4B'
+            color: '#281e4ba8'
         }
     },
     
@@ -198,7 +198,7 @@ geoConfig: {
         
         reject: {
             background: '#ffffff',
-            color: '#281E4B',
+            color: '#281e4b91',
             border: '1px solid #00000042',
             hover: {
                 background: '#ffffff',
@@ -209,7 +209,7 @@ geoConfig: {
         
         adjust: {
             background: '#f8f9fa',
-            color: '#281E4B',
+            color: '#281e4b91',
             border: '1px solid #00000042',
             hover: {
                 background: '#f0f2f5',
