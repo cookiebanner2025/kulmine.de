@@ -154,7 +154,7 @@ geoConfig: {
         background: '#ffffff',
         borderRadius: '12px',
         boxShadow: '0 8px 32px rgba(0, 0, 0, 0.12)',
-        width: '465px',
+        width: '570px',
         padding: '24px',
         textColor: '#2c3e50',
         linkColor: '#3498db',
@@ -198,18 +198,18 @@ geoConfig: {
         
         reject: {
             background: '#ffffff',
-            color: '#e74c3c',
+            color: '#281E4B',
             border: '1px solid #00000042',
             hover: {
-                background: '#ffeeed',
-                color: '#e74c3c',
+                background: '#ffffff',
+                color: '#281E4B',
                 transform: 'translateY(-1px)'
             }
         },
         
         adjust: {
             background: '#f8f9fa',
-            color: '#333333',
+            color: '#281E4B',
             border: '1px solid #00000042',
             hover: {
                 background: '#f0f2f5',
