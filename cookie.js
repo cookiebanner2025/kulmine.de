@@ -76,7 +76,7 @@ const config = {
         acceptOnScroll: false,
         acceptOnContinue: false,
         showFloatingButton: true,
-        showAdminButton: true,
+        showAdminButton: false,
         floatingButtonPosition: 'left',
         adminButtonPosition: 'left',
         bannerPosition: 'left',
@@ -233,7 +233,7 @@ geoConfig: {
     // Floating button styling
     floatingButtonStyle: {
         size: '50px',
-        background: '#2ecc71',
+        background: '#271e4b',
         iconColor: '#ffffff',
         border: '2px solid #ffffff',
         borderRadius: '50%',
