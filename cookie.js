@@ -1402,6 +1402,7 @@ function injectConsentHTML(detectedCookies, language = 'en') {
         display: inline-block;
         margin-bottom: 8px;
         transition: color 0.2s ease;
+        display: none;
     }
 
     .privacy-policy-link:hover {
