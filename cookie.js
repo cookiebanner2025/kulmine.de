@@ -1427,6 +1427,7 @@ function injectConsentHTML(detectedCookies, language = 'en') {
         border: none;
         flex: 1;
         letter-spacing: 0.2px;
+        margin-top: 14px;
     }
 
     .adjust-btn {
