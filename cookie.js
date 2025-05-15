@@ -173,7 +173,7 @@ geoConfig: {
         description: {
             fontSize: '14px',
             lineHeight: '1.5',
-            color: '#7f8c8d'
+            color: '#281E4B'
         }
     },
     
