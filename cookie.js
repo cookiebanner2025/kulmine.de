@@ -1781,6 +1781,7 @@ function injectConsentHTML(detectedCookies, language = 'en') {
         font-weight: 500;
         display: inline-block;
         transition: color 0.2s ease;
+        display: none;
     }
 
     .see-analytics-link:hover {
