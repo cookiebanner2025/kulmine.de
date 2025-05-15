@@ -501,7 +501,7 @@ const cookieDatabase = {
 const translations = {
    de: {
         title: "Cookies statt Kekse",
-        description: "Wir verwenden Cookies, um Ihr Surferlebnis zu verbessern, personalisierte Anzeigen oder Inhalte bereitzustellen und unseren Datenverkehr zu analysieren. Wenn Sie auf \"Alle akzeptieren\" klicken, erklären Sie sich mit der Verwendung von Cookies einverstanden.",
+        description: "Kekse wären uns auch lieber, aber hier gibt es nur Cookies für Personalisierung, Social Media und Analyse. Dabei werden Daten mit Drittanbietern geteilt, die diese mit weiteren Informationen verknüpfen können.",
         privacy: "Datenschutzrichtlinie",
         customize: "Anpassen",
         reject: "Alle ablehnen",
